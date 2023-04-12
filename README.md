@@ -1,7 +1,7 @@
 # Image2ASCII
 
 # Usage  
-To use, make sure you have downloaded the image2ascii.py python file. With the image you want to convert in the same directory, run the python file from the terminal using '$ python image2ascii.py [input file name] [optional mode]  
+To use, make sure you have downloaded the image2ascii.py python file. With the image you want to convert in the same directory, run the python file from the terminal using '$ python image2ascii.py [input file name] [optional mode]'  
   
 # Valid modes  
   - mean (uses mean value across RGBA channels to determine darkness)
